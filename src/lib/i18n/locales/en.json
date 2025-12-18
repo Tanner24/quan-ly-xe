@@ -1,0 +1,84 @@
+{
+    "common": {
+        "appName": "Vincons Asset Management",
+        "welcomeMessage": "Welcome to the equipment management system",
+        "loading": "Loading...",
+        "save": "Save",
+        "cancel": "Cancel",
+        "delete": "Delete",
+        "edit": "Edit",
+        "add": "Add",
+        "search": "Search",
+        "filter": "Filter",
+        "export": "Export",
+        "import": "Import",
+        "refresh": "Refresh",
+        "settings": "Settings",
+        "logout": "Logout"
+    },
+    "navigation": {
+        "dashboard": "Dashboard",
+        "vehicles": "Vehicles",
+        "logs": "Logs",
+        "maintenance": "Maintenance",
+        "reports": "Reports",
+        "analytics": "Analytics",
+        "ai": "AI Predictions",
+        "settings": "Settings",
+        "projects": "Projects"
+    },
+    "vehicles": {
+        "title": "Vehicle Management",
+        "addNew": "Add New Vehicle",
+        "code": "Asset Code",
+        "name": "Name",
+        "model": "Model",
+        "brand": "Brand",
+        "status": "Status",
+        "project": "Project",
+        "currentHours": "Current Hours",
+        "maintenance": "Maintenance",
+        "active": "Active",
+        "inactive": "Inactive",
+        "underMaintenance": "Under Maintenance"
+    },
+    "maintenance": {
+        "title": "Maintenance History",
+        "date": "Date",
+        "type": "Type",
+        "cost": "Cost",
+        "notes": "Notes",
+        "nextDue": "Next Due",
+        "overdue": "Overdue",
+        "scheduled": "Scheduled",
+        "completed": "Completed"
+    },
+    "analytics": {
+        "costAnalysis": "Cost Analysis",
+        "utilization": "Utilization Rate",
+        "downtime": "Downtime",
+        "totalCost": "Total Cost",
+        "avgUtilization": "Avg Utilization",
+        "exportReport": "Export Report"
+    },
+    "ai": {
+        "predictions": "AI Predictions",
+        "healthScore": "Health Score",
+        "riskLevel": "Risk Level",
+        "recommendations": "Recommendations",
+        "anomalies": "Anomalies",
+        "critical": "Critical",
+        "high": "High",
+        "medium": "Medium",
+        "low": "Low"
+    },
+    "settings": {
+        "general": "General",
+        "appearance": "Appearance",
+        "language": "Language",
+        "theme": "Theme",
+        "notifications": "Notifications",
+        "privacy": "Privacy",
+        "account": "Account"
+    }
+}

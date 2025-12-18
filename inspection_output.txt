@@ -1,0 +1,20 @@
+
+--- Inspecting: D:\Vincons\dự án.xlsx ---
+Columns: ["Mã Tài sản","Dự Án","Bộ Phận Sử dụng"]
+Sample Row: ["4C0001","HP - Vũ Yên","Thi công hạ tầng san lấp-Vũ Yên"]
+
+--- Inspecting: D:\Vincons\vehicles.xlsx ---
+Columns: ["NCC","Mã quản lý","Tên máy móc","NCC","Dự án hiện tại","Tình trạng sử dụng","Tên BCH","Khối thi công ","Ngày cập nhật","ODO Giờ hiên tại","ODO Km hiên tại","Ngày thực hiện","ODO Giờ thực hiện BD","ODO Km thực hiện BD","Mức BD","Mức BD kế tiếp","Định Mức bảo dưỡng","ODO giờ BD kế tiếp","Giờ còn lại","Tình trạng","Ghi Chú"]
+Sample Row: [1,"Vincons BD","QN0002","Xe quét hút bụi nhà xưởng MN-E810FB","Vincons","Vincons","Đang hoạt động","Phòng dịch vụ vệ sinh môi trường-Cổ Loa","Khối công trường chung-Cổ Loa",45994,1008,null,null,null,null,null,0,null,0,-1008,"Quá hạn","Lưu Kho"]
+
+--- Inspecting: D:\Vincons\Báo Cáo Giờ\Bảo dưỡng\Cập nhật hướng dãn bảo dưỡng 05.11.2025.xlsx ---
+Columns: ["BẢNG TỔNG HỢP HƯỠNG DẪN BẢO DƯỠNG CÁC MỨC THEO TIÊU CHUẨN"]
+Sample Row: ["Đơn vị bảo dưỡng","Nhóm thiết bị","Giá trị tìm kiếm","Dự án","Bộ phận sử dụng thiết bị","Mã Tài sản","Nhóm vật tư","Tên vật tư","Mã danh điểm","Đơn vị","Số lượng","mã lọc hãng Donaldson quy đổi","Định mức Bảo dưỡng KM / Giờ"]
+
+--- Inspecting: D:\Vincons\Báo Cáo Giờ\BDMMTB Cổ Loa.xlsx ---
+Columns: ["CÔNG TY CP PT & ĐTXD VINCONS","CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM"]
+Sample Row: [null,null,null,null,null,"Độc lập - Tự do - Hạnh phúc",null,null,null]
+
+--- Inspecting: D:\Vincons\Báo Cáo Giờ\Nhật trình KTSC.xlsx ---
+Columns: ["Ngày /tháng .năm","xe","số km","số giờ","Nội Dung công Việc","NGUYÊN NHÂN HỎNG -MỨC ĐỘ HƯ HỎNG","PHUONG ÁN SỬA CHỮA","Column3","Bộ Phận Sử Dụng","Giờ Bắt Đầu","Giờ Kết Thúc","Column1","Thợ Sửa Chữa"]
+Sample Row: [45699,"NH0017",null,1677,"bảo dưỡng định kỳ",null,"thay dầu lọc",null,"XD",0.5833333333333334,0.6666666666666666,null,"sơn, hưng",null,null,null,null]

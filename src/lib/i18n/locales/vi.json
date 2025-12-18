@@ -1,0 +1,84 @@
+{
+    "common": {
+        "appName": "Quản lý Máy Vincons",
+        "welcomeMessage": "Chào mừng đến với hệ thống quản lý thiết bị",
+        "loading": "Đang tải...",
+        "save": "Lưu",
+        "cancel": "Hủy",
+        "delete": "Xóa",
+        "edit": "Sửa",
+        "add": "Thêm",
+        "search": "Tìm kiếm",
+        "filter": "Lọc",
+        "export": "Xuất",
+        "import": "Nhập",
+        "refresh": "Làm mới",
+        "settings": "Cài đặt",
+        "logout": "Đăng xuất"
+    },
+    "navigation": {
+        "dashboard": "Tổng quan",
+        "vehicles": "Quản lý Xe",
+        "logs": "Nhật ký",
+        "maintenance": "Bảo dưỡng",
+        "reports": "Báo cáo",
+        "analytics": "Phân tích",
+        "ai": "AI Dự đoán",
+        "settings": "Cài đặt",
+        "projects": "Dự án"
+    },
+    "vehicles": {
+        "title": "Quản lý Thiết bị",
+        "addNew": "Thêm thiết bị mới",
+        "code": "Mã tài sản",
+        "name": "Tên thiết bị",
+        "model": "Model",
+        "brand": "Hãng",
+        "status": "Trạng thái",
+        "project": "Dự án",
+        "currentHours": "Giờ máy hiện tại",
+        "maintenance": "Bảo dưỡng",
+        "active": "Hoạt động",
+        "inactive": "Không hoạt động",
+        "underMaintenance": "Đang bảo dưỡng"
+    },
+    "maintenance": {
+        "title": "Lịch sử Bảo dưỡng",
+        "date": "Ngày",
+        "type": "Loại",
+        "cost": "Chi phí",
+        "notes": "Ghi chú",
+        "nextDue": "BD tiếp theo",
+        "overdue": "Quá hạn",
+        "scheduled": "Đã lên lịch",
+        "completed": "Hoàn thành"
+    },
+    "analytics": {
+        "costAnalysis": "Phân tích Chi phí",
+        "utilization": "Tỷ lệ Sử dụng",
+        "downtime": "Thời gian Ngừng",
+        "totalCost": "Tổng chi phí",
+        "avgUtilization": "Sử dụng TB",
+        "exportReport": "Xuất báo cáo"
+    },
+    "ai": {
+        "predictions": "Dự đoán AI",
+        "healthScore": "Điểm Sức khỏe",
+        "riskLevel": "Mức Rủi ro",
+        "recommendations": "Đề xuất",
+        "anomalies": "Bất thường",
+        "critical": "Khẩn cấp",
+        "high": "Cao",
+        "medium": "Trung bình",
+        "low": "Thấp"
+    },
+    "settings": {
+        "general": "Chung",
+        "appearance": "Giao diện",
+        "language": "Ngôn ngữ",
+        "theme": "Chủ đề",
+        "notifications": "Thông báo",
+        "privacy": "Riêng tư",
+        "account": "Tài khoản"
+    }
+}
